@@ -14,3 +14,6 @@ Setup and configured Jenkins on an EC2 instance for CI/CD automation.
 - Automated builds
 - Continuous integration
 - Pipeline configuration
+
+- ## 📷 Architecture
+![Architecture](jenkins setup.drawio.png)
