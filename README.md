@@ -15,6 +15,11 @@ Setup and configured Jenkins on an EC2 instance for CI/CD automation.
 - Continuous integration
 - Pipeline configuration
 
+## 📈 Key Outcomes
+- Successfully deployed and configured Jenkins on AWS EC2  
+- Built and executed pipeline jobs for automation  
+- Enabled continuous integration workflows for faster development cycles  
+
 - ## 📷 Architecture
 ![Architecture]
 
